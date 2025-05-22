@@ -1,0 +1,9 @@
+conv_filter_option: option2
+latent_dim: 80
+kernel_size: 3
+strides: 1
+activation: relu
+dropout_rate: 0.4
+l2_lambda: 1.1471792180824664e-05
+Validation Loss: 0.31551674008369446
+Reconstruction Accuracy: 0.21004901826381683
